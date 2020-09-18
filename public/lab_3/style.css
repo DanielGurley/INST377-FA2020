@@ -60,8 +60,7 @@ p, li {
 }
 
 body > * {
-  border: 5px green;
-  background-color: greenyellow;
+  background-color: red;
   padding: 1%;
 }
 
