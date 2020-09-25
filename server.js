@@ -3,6 +3,10 @@
 /* eslint-disable no-unused-vars */
 import express from 'express';
 
+function display() {
+alert('Hello World!');
+}
+
 const app = express();
 const port = process.env.PORT || 3000;
 
