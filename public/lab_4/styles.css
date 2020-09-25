@@ -30,7 +30,7 @@ h1 {
 
 .flex-outer {
   max-width: 800px;
-  margin: 0 auto;
+  margin: 0;
 }
 
 .flex-outer li,
