@@ -86,6 +86,7 @@ h1 {
   color: #000000;
   text-transform: uppercase;
   border-radius: 3px;
+  letter-spacing: 1.2px;
 }
 
 .flex-inner li {
